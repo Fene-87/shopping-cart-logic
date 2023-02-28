@@ -31,7 +31,7 @@ const CartContainer = () => {
         <footer>
             <hr />
             <div className="cart-total">
-                <h4>total <span>Ksh{total}</span></h4>
+                <h4>total <span>Ksh{total.toFixed(2)}</span></h4>
             </div>
             <button className="btn clear-btn" onClick={() => dispatch(openModal())}>clear cart</button>
         </footer>

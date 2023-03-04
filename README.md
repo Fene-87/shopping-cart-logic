@@ -1,4 +1,4 @@
-# Redux Toolkit Tutorial
+# Shopping cart logic
 <a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
@@ -15,9 +15,9 @@
 - [📝 License](#license)
 
 
-# 📖 Redux Toolkit Tutorial <a name="about-project"></a>
+# 📖 Shopping cart logic <a name="about-project"></a>
 
-**Redux Toolkit Tutorial** is a simple React/Redux project that I use for practice on how to use the redux toolkit
+**Shopping cart logic** is a simple React/Redux project that I use for practice on how to use the redux toolkit. I create a shopping cart and use Redux toolkit for global state management.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -40,7 +40,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Redux store**
+- **Shopping Cart**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

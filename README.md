@@ -48,7 +48,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Click on the link to view the portfolio website.
+Click on the link to view the shopping cart.
 
 - [Live Demo](https://shopping-cart-logic.onrender.com)
 
